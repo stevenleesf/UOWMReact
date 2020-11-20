@@ -1,5 +1,5 @@
 {
-  "homepage": "http://stevenleesf.github.io/UOWKDU-React",
+  "homepage": "http://stevenleesf.github.io/UOWMReact",
   "name": "educationpp",
   "version": "0.1.0",
   "private": true,
@@ -28,6 +28,8 @@
     "validator": "^13.1.17"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
