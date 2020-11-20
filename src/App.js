@@ -39,7 +39,7 @@ function App()
       <Navbar />
       <Switch>
      
-        <Route exact path={["/", "/home"]} component={Home}/>
+        <Route exact path={["/", "/home","/UOWMReact"]} component={Home}/>
         <Route path='/Staff/:id' component={PhuaInfo}/>
         <Route path='/updateStaff/:id' component={UpdateStaff}/>
         <Route path='/service' component={Service}/>

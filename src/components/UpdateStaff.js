@@ -81,58 +81,7 @@ const UpdateStaff = props => {
   
   
     const updateTutorial = () => {
-        var data = {
-            name: currentTutorial.name,
-            gender: currentTutorial.gender,
-            age: currentTutorial.age,
-            bio : currentTutorial.bio,
-            qualification_acedemic : currentTutorial.qualification_acedemic,
-            institution_acedemic : currentTutorial.institution_acedemic,
-            qualification_acedemic2 : currentTutorial.qualification_acedemic2,
-            institution_acedemic2 : currentTutorial.institution_acedemic2,
-            qualification_acedemic3 : currentTutorial.qualification_acedemic3,
-            institution_acedemic3 : currentTutorial.institution_acedemic3,
-            organisation : currentTutorial.organisation ,
-            role : currentTutorial.role,
-            year : currentTutorial.year,
-            level : currentTutorial.level,
-            role_admin : currentTutorial.role_admin,
-            level_admin : currentTutorial.level_admin,
-            start_admin : currentTutorial.start_admin,
-            end_admin : currentTutorial.end_admin,
-            area_expertise : currentTutorial.area_expertise,
-            area_expertise2 : currentTutorial.area_expertise2,
-            area_expertise3 : currentTutorial.area_expertise3,
-            area_expertise4 : currentTutorial.area_expertise4,
-            area_expertise5 : currentTutorial.area_expertise5,
-            book_pub : currentTutorial.book_pub,
-            chp_book_pub : currentTutorial.chp_book_pub,
-            title_Areas : currentTutorial.title_Areas,
-            role_Areas : currentTutorial.role_Areas,
-            title_consult : currentTutorial.title_consult,
-            role_consult: currentTutorial.role_consult,
-            fromTo_consult : currentTutorial.fromTo_consult,
-            organisation_consult : currentTutorial.organisation_consult,
-            title_consult2 : currentTutorial.title_consult2,
-            role_consult2 : currentTutorial.role_consult2,
-            fromTo_consult2 : currentTutorial.fromTo_consult2,
-            organisation_consult2 : currentTutorial.organisation_consult2,
-            award : currentTutorial.award,
-            institution_award : currentTutorial.institution_award,
-            year_award : currentTutorial.year_award,
-            activity_contribute : currentTutorial.activity_contribute,
-            role_contribute : currentTutorial.role_contribute,
-            fromTo_contribute : currentTutorial.fromTo_contribute,
-            name_degree : currentTutorial.name_degree,
-            name_candidates : currentTutorial.name_candidates,
-            title_thesis : currentTutorial.title_thesis,
-            academic_level : currentTutorial.academic_level,
-            course_teach : currentTutorial.course_teach,
-            academic_teach : currentTutorial.academic_teach,
-            number_student_teach : currentTutorial.number_student_teach,
-            hourContact_teach : currentTutorial.hourContact_teach
-            
-          };
+        
         AuthService.updateStaff(currentTutorial.id, currentTutorial)
         .then(response => {
           console.log(response.data);
