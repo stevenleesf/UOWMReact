@@ -1,0 +1,41 @@
+.auth-container{
+    z-index: 1;
+    width: 100%;
+    max-width: 1300px;
+    padding-top: 50px;
+    min-height: 100%;
+    margin-bottom: 100px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: 50px;
+    padding-left: 50px;
+    position: static;
+    font-size: 24px;
+    
+    border: 1px solid #f2f2f2;
+    margin-top: 50px;
+    padding-bottom: 70px;
+}
+
+.auth-container h1{
+    margin-bottom: 50px;
+    color: #1c2237;
+}
+
+
+
+.auth-container input[type=text], input[type=password] {
+    width: 100%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    display: inline-block;
+    border: none;
+    background: #f1f1f1;
+  }
+.form-group{
+    margin: 50px;
+}
+
+.auth-container Button{
+    margin-left: 50px;
+}

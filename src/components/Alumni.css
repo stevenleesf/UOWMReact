@@ -1,0 +1,44 @@
+.container-header-2{
+    margin-top: -70px;
+}
+.container-header-info-2{
+    font-family: 'chronicle', sans-serif;
+    border-radius: 15px !important;
+    border: 2px solid #58687c;
+    background-color: whitesmoke  ;
+    padding:15px;
+    width: 20%;
+    margin-left: 400px;
+    float: left;
+    margin-bottom: 150px;
+    margin-right: -70px;
+    height: 320px;
+    
+}
+.personal__container{
+    z-index: 1;
+    width: 100%;
+    max-width: 1000px;
+    margin: auto;
+    padding-right: 50px;
+    padding-left: 50px;
+    position: static;
+    text-align: center;
+    margin-bottom: 15px;
+    padding-top: 2%;
+   
+
+
+}
+
+
+.h2A{
+    color: #0047bb;
+    font-size:38px ;
+}
+
+.p-alumni{
+    text-align: justify;
+    padding: 5px;
+    
+}
