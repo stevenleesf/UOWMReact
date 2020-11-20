@@ -9,7 +9,7 @@ export const homeObjOne = {
     description: "We welcome you to UOWM KDU Lecturar detail portal, where you can get to know more about your lecturar",
     buttonLabel1: 'Get Started',
     imgStart: '',
-    img: './images/svg-7.svg',
+    img: 'UOWMReact/images/svg-7.svg',
     alt: 'KDU',
     service: "/Service",
 };
@@ -24,7 +24,7 @@ export const homeObjTwo = {
     description: "196th in the world – QS World University Rankings 2021",
     buttonLabel1: false,
     imgStart: 'start',
-    img: './images/kdu.png',
+    img: './UOWMReact/images/kdu.png',
     alt: 'KDU',
     service: false
 }
@@ -40,7 +40,7 @@ export const homeObjThree = {
     description2: "26th in the world – Times Higher Education Young University Rankings 2020",
     buttonLabel1: false,
     imgStart: '',
-    img: './images/svg-7.svg',
+    img: './UOWMReact/images/svg-7.svg',
     alt: 'goal',
     service: false
 }

@@ -78,7 +78,7 @@ function Navbar() {
         <nav className='navbar'>
           <div className='navbar-container container'>
             <Link to='/' className='navbar-logo' onClick={closeMobileMenu}>
-              <img src="/images/Logo-WHITE.png"
+              <img src="./UOWMReact/images/Logo-WHITE.png"
                 alt="UOWKDU Logo" width="35%" height="85%" className='navbar-icon' />
 
 
