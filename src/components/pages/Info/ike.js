@@ -18,7 +18,7 @@ function ike() {
                 <div className="row_details"
                     style={{ display: "flex" }}>
                     <div className="col-personal-logo" for="ike">
-                        <img src="./UOWMReact/images/boy.png" alt="phua" ></img>
+                        <img src="./images/boy.png" alt="phua" ></img>
                         <h1>Associate Professor Ts. Tan Chin Ike</h1>
                         <br></br>
                         <p class="title">Head of School – Computing & Creative Media</p>

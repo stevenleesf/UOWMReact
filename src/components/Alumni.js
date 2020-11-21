@@ -59,7 +59,7 @@ function alumni() {
                     <h2 className="h2A">Alumni Stories</h2>
                     <div className="personal__row">
                         <div className="personal__col">
-                            <img src="/images/boy.png" alt="phua" ></img>
+                            <img src="./images/boy.png" alt="phua" ></img>
                             <h1>Sean-Li Murmann</h1>
                             <br></br>
                             <p class="title">UOW Malaysia KDU University College</p>
@@ -71,7 +71,7 @@ function alumni() {
                           
                         </div>
                         <div className="personal__col">
-                            <img src="/images/girl.png" alt="phua" ></img>
+                            <img src="./images/girl.png" alt="phua" ></img>
                             <h1>Jack Ong Wei Liang</h1>
                             <br></br>
                             <p class="title">UOW Malaysia KDU University College</p>

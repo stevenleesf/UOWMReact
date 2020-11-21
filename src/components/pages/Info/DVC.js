@@ -18,7 +18,7 @@ function DVC() {
                 <div className="row_details"
                     style={{ display: "flex" }}>
                     <div className="col-personal-logo">
-                        <img src="./UOWMReact/images/girl.png" alt="phua" ></img>
+                        <img src="./images/girl.png" alt="phua" ></img>
                         <h1>Professor Dr Hon Wei Min</h1>
                         <br></br>
                         <p class="title">Deputy Vice Chancellor – Academic</p>
