@@ -88,8 +88,10 @@ function computing() {
                         <div className="container-col-comp">
                            
                         <ul>Undergraduate
-                            <a href="/compstu" style={{ textDecoration: 'none' }}><li>Diploma in Computer Studies</li></a>
-                            <a href="/useng" style={{ textDecoration: 'none' }}><li> Bachelor of Software Engineering (Hons)</li> </a>
+                            <Link to='/compstu'><a style={{ textDecoration: 'none' }}><li>Diploma in Computer Studies</li></a></Link>
+                            <Link to='/useng'><a style={{ textDecoration: 'none' }}><li>Diploma in Computer Studies</li></a></Link>
+                           
+                           
                            
                             </ul>
                         </div>
