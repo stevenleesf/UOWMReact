@@ -37,7 +37,9 @@ function App()
 
 {
   return(
+
     <HashRouter >
+
       <Navbar />
       <Switch>
      
