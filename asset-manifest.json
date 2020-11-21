@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/UOWMReact/static/css/main.e7f60d59.chunk.css",
-    "main.js": "/UOWMReact/static/js/main.464ea0f3.chunk.js",
-    "main.js.map": "/UOWMReact/static/js/main.464ea0f3.chunk.js.map",
+    "main.js": "/UOWMReact/static/js/main.217413a9.chunk.js",
+    "main.js.map": "/UOWMReact/static/js/main.217413a9.chunk.js.map",
     "runtime-main.js": "/UOWMReact/static/js/runtime-main.63d1ead4.js",
     "runtime-main.js.map": "/UOWMReact/static/js/runtime-main.63d1ead4.js.map",
     "static/css/2.55ce7b8a.chunk.css": "/UOWMReact/static/css/2.55ce7b8a.chunk.css",
     "static/js/2.47af72dc.chunk.js": "/UOWMReact/static/js/2.47af72dc.chunk.js",
     "static/js/2.47af72dc.chunk.js.map": "/UOWMReact/static/js/2.47af72dc.chunk.js.map",
     "index.html": "/UOWMReact/index.html",
-    "precache-manifest.4dccf8fdfae93a32e80cfb350c01d9fb.js": "/UOWMReact/precache-manifest.4dccf8fdfae93a32e80cfb350c01d9fb.js",
+    "precache-manifest.64245fd70f2baa3331709b47e2440ab9.js": "/UOWMReact/precache-manifest.64245fd70f2baa3331709b47e2440ab9.js",
     "service-worker.js": "/UOWMReact/service-worker.js",
     "static/css/2.55ce7b8a.chunk.css.map": "/UOWMReact/static/css/2.55ce7b8a.chunk.css.map",
     "static/css/main.e7f60d59.chunk.css.map": "/UOWMReact/static/css/main.e7f60d59.chunk.css.map",
@@ -23,6 +23,6 @@
     "static/css/2.55ce7b8a.chunk.css",
     "static/js/2.47af72dc.chunk.js",
     "static/css/main.e7f60d59.chunk.css",
-    "static/js/main.464ea0f3.chunk.js"
+    "static/js/main.217413a9.chunk.js"
   ]
 }
