@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.34b2587d.chunk.css",
-    "main.js": "/static/js/main.584371f7.chunk.js",
-    "main.js.map": "/static/js/main.584371f7.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.6b3d174d.js",
-    "runtime-main.js.map": "/static/js/runtime-main.6b3d174d.js.map",
-    "static/css/2.1c9ef103.chunk.css": "/static/css/2.1c9ef103.chunk.css",
-    "static/js/2.47af72dc.chunk.js": "/static/js/2.47af72dc.chunk.js",
-    "static/js/2.47af72dc.chunk.js.map": "/static/js/2.47af72dc.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.429e514468ca6990a715a5a5cf4b1fc6.js": "/precache-manifest.429e514468ca6990a715a5a5cf4b1fc6.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.1c9ef103.chunk.css.map": "/static/css/2.1c9ef103.chunk.css.map",
-    "static/css/main.34b2587d.chunk.css.map": "/static/css/main.34b2587d.chunk.css.map",
-    "static/js/2.47af72dc.chunk.js.LICENSE.txt": "/static/js/2.47af72dc.chunk.js.LICENSE.txt",
-    "static/media/facilities.css": "/static/media/banner.206ff732.jpg",
-    "static/media/kdu.png": "/static/media/kdu.0eed37d6.png",
-    "static/media/slick-theme.css": "/static/media/slick.f97e3bbf.svg"
+    "main.css": "/UOWMReact/static/css/main.e7f60d59.chunk.css",
+    "main.js": "/UOWMReact/static/js/main.920ba147.chunk.js",
+    "main.js.map": "/UOWMReact/static/js/main.920ba147.chunk.js.map",
+    "runtime-main.js": "/UOWMReact/static/js/runtime-main.63d1ead4.js",
+    "runtime-main.js.map": "/UOWMReact/static/js/runtime-main.63d1ead4.js.map",
+    "static/css/2.55ce7b8a.chunk.css": "/UOWMReact/static/css/2.55ce7b8a.chunk.css",
+    "static/js/2.47af72dc.chunk.js": "/UOWMReact/static/js/2.47af72dc.chunk.js",
+    "static/js/2.47af72dc.chunk.js.map": "/UOWMReact/static/js/2.47af72dc.chunk.js.map",
+    "index.html": "/UOWMReact/index.html",
+    "precache-manifest.e26636acc86c7fea7ceb1dcbd9851920.js": "/UOWMReact/precache-manifest.e26636acc86c7fea7ceb1dcbd9851920.js",
+    "service-worker.js": "/UOWMReact/service-worker.js",
+    "static/css/2.55ce7b8a.chunk.css.map": "/UOWMReact/static/css/2.55ce7b8a.chunk.css.map",
+    "static/css/main.e7f60d59.chunk.css.map": "/UOWMReact/static/css/main.e7f60d59.chunk.css.map",
+    "static/js/2.47af72dc.chunk.js.LICENSE.txt": "/UOWMReact/static/js/2.47af72dc.chunk.js.LICENSE.txt",
+    "static/media/facilities.css": "/UOWMReact/static/media/banner.206ff732.jpg",
+    "static/media/kdu.png": "/UOWMReact/static/media/kdu.0eed37d6.png",
+    "static/media/slick-theme.css": "/UOWMReact/static/media/slick.f97e3bbf.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.6b3d174d.js",
-    "static/css/2.1c9ef103.chunk.css",
+    "static/js/runtime-main.63d1ead4.js",
+    "static/css/2.55ce7b8a.chunk.css",
     "static/js/2.47af72dc.chunk.js",
-    "static/css/main.34b2587d.chunk.css",
-    "static/js/main.584371f7.chunk.js"
+    "static/css/main.e7f60d59.chunk.css",
+    "static/js/main.920ba147.chunk.js"
   ]
 }
