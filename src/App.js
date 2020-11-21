@@ -37,7 +37,7 @@ function App()
 
 {
   return(
-    <HashRouter basename='/UOWMReact' >
+    <HashRouter  >
       <Navbar />
       <Switch>
      
