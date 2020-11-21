@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4b0395f9c897b83a7408058bc135f1af",
+    "revision": "da064b744410463c3e4d3d08028a0246",
     "url": "/UOWMReact/index.html"
   },
   {
-    "revision": "8715338f2b6bb0fa32c7",
+    "revision": "9cc9d6be4d58b68aebf2",
     "url": "/UOWMReact/static/css/2.55ce7b8a.chunk.css"
   },
   {
-    "revision": "c1880621aaf47eb0ceea",
+    "revision": "94c198e69c4d82626201",
     "url": "/UOWMReact/static/css/main.e7f60d59.chunk.css"
   },
   {
-    "revision": "8715338f2b6bb0fa32c7",
-    "url": "/UOWMReact/static/js/2.d718a78c.chunk.js"
+    "revision": "9cc9d6be4d58b68aebf2",
+    "url": "/UOWMReact/static/js/2.47af72dc.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/UOWMReact/static/js/2.d718a78c.chunk.js.LICENSE.txt"
+    "url": "/UOWMReact/static/js/2.47af72dc.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c1880621aaf47eb0ceea",
-    "url": "/UOWMReact/static/js/main.c80ae237.chunk.js"
+    "revision": "94c198e69c4d82626201",
+    "url": "/UOWMReact/static/js/main.716bffbe.chunk.js"
   },
   {
     "revision": "5f3a572c760c5bc8e0df",
