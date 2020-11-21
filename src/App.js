@@ -2,7 +2,7 @@ import React from 'react';
 import "./App.css"
 import Navbar from './components/Navbar';
 import { Switch, Route} from 'react-router';
-import { BrowserRouter } from 'react-router-dom'
+import { HashRouter } from 'react-router-dom'
 import Home from './components/pages/HomePage/Home'
 import Footer from './components/pages/Footer/Footer';
 import Service from './components/Service';
@@ -28,18 +28,20 @@ import UpdateStaff from './components/UpdateStaff';
 import comingsoon from './components/comingsoon';
 
 
+  
 
 
 
 function App()
 
+
 {
   return(
-    <BrowserRouter>
+    <HashRouter basename='/UOWMReact' >
       <Navbar />
       <Switch>
      
-        <Route exact path={["/", "/home","/UOWMReact"]} component={Home}/>
+        <Route exact path={["/", "/home"]} component={Home}/>
         <Route path='/Staff/:id' component={PhuaInfo}/>
         <Route path='/updateStaff/:id' component={UpdateStaff}/>
         <Route path='/service' component={Service}/>
@@ -64,7 +66,7 @@ function App()
      
       </Switch>
       <Footer />
-    </BrowserRouter>
+    </HashRouter>
   );
   
 }
