@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ff463f05a95316acbba844fd7f591d32",
+    "revision": "e458c7f1ce41893eae13d48918ae264f",
     "url": "/UOWMReact/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/UOWMReact/static/css/2.55ce7b8a.chunk.css"
   },
   {
-    "revision": "edc4c04555074c3cb000",
+    "revision": "da1e2c8b6cabdf0ae7c1",
     "url": "/UOWMReact/static/css/main.e7f60d59.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/UOWMReact/static/js/2.47af72dc.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "edc4c04555074c3cb000",
-    "url": "/UOWMReact/static/js/main.7aea6979.chunk.js"
+    "revision": "da1e2c8b6cabdf0ae7c1",
+    "url": "/UOWMReact/static/js/main.e53ee919.chunk.js"
   },
   {
     "revision": "5f3a572c760c5bc8e0df",
