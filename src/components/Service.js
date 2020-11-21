@@ -12,7 +12,7 @@ function Service() {
                     <h2 className="h2S">Academic Staff</h2>
                     <div className="personal__row">
                         <div className="personal__col">
-                            <img src="./UOWMReact/images/boy.png" alt="phua" ></img>
+                            <img src="./images/boy.png" alt="phua" ></img>
                             <h1>Phua Yeong Tsann</h1>
                             <br></br>
                             <p className="title">Senior Lecturer</p>
@@ -24,7 +24,7 @@ function Service() {
                             </Link>
                         </div>
                         <div className="personal__col">
-                            <img src="./UOWMReact/images/girl.png" alt="foong" ></img>
+                            <img src="./images/girl.png" alt="foong" ></img>
                             <h1>Law Foong-Li</h1>
                             <br></br>
                             <p class="title">Senior Lecturer</p>
@@ -41,7 +41,7 @@ function Service() {
                     <h2 className="h2S">Non-academic Staff</h2>
                     <div className="personal__row">
                         <div className="personal__col">
-                            <img src="./UOWMReact/images/girl.png" alt="phua" ></img>
+                            <img src="./images/girl.png" alt="phua" ></img>
                             <h1>Professor Dr Hon Wei Min</h1>
                             <br></br>
                             <p class="title">Deputy Vice Chancellor – Academic</p>
@@ -53,7 +53,7 @@ function Service() {
                             </Link>
                         </div>
                         <div className="personal__col">
-                            <img src="./UOWMReact/images/boy.png" alt="foong" ></img>
+                            <img src="./images/boy.png" alt="foong" ></img>
                             <h1>Associate Professor Ts. Tan Chin Ike</h1>
                             <br></br>
                             <p class="title">Head of School – Computing & Creative Media</p>
@@ -67,7 +67,7 @@ function Service() {
                 
                     <div className="personal__row">
                         <div className="personal__col-2">
-                            <img src="./UOWMReact/images/boy.png" alt="phua" ></img>
+                            <img src="./images/boy.png" alt="phua" ></img>
                             <h1>Phua Yeong Tsann</h1>
                             <br></br>
                             <p class="title">Head of Academic Department – Computing & Creative Media</p>

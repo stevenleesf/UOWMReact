@@ -38,7 +38,7 @@ function App()
 {
   return(
 
-    <HashRouter >
+    <HashRouter basename="/">
 
       <Navbar />
       <Switch>

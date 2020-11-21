@@ -18,7 +18,7 @@ function Footer() {
         <div className='social-media-wrap'>
           <div className='footer-logo'>
             <Link to='/' className='social-logo'>
-                <img src="./UOWMReact/images/Logo-WHITE.png" alt="UOWKDU Logo" width="35%" height="75%"  className='navbar-icon' />
+                <img src="./images/Logo-WHITE.png" alt="UOWKDU Logo" width="35%" height="75%"  className='navbar-icon' />
                 <br></br>
                 
             </Link>
