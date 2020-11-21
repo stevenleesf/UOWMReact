@@ -27,46 +27,41 @@ function Footer() {
          
           
           <div className='social-icons'>
-            <Link
+            <a
               className='social-icon-link'
-              to={
-                '//facebook.com/UOWMKDU'
-              }
-              target='_blank'
-              aria-label='Facebook'
+              href=
+                "https://www.facebook.com/UOWMKDU"
+              
             >
               <FaFacebook />
-            </Link>
-            <Link
+            </a>
+            <a
               className='social-icon-link'
-              to={
-                '//instagram.com/uowmkdu/'
-              }
-              target='_blank'
-              aria-label='Instagram'
+              href=
+                "https://instagram.com/uowmkdu/"
+              
+             
             >
               <FaInstagram />
-            </Link>
-            <Link
+            </a>
+            <a
               className='social-icon-link'
-              to={
-                '//youtube.com/channel/UC-mGzsCOKB4vLWd6bbKxYuQ'
-              }
-              target='_blank'
-              aria-label='Youtube'
+              href=
+                "https:youtube.com/channel/UC-mGzsCOKB4vLWd6bbKxYuQ"
+              
+             
             >
               <FaYoutube />
-            </Link>
-            <Link
+            </a>
+            <a
               className='social-icon-link'
-              to={
-                '//linkedin.com/company/kdu-university-college/'
-              }
-              target='_blank'
-              aria-label='LinkedIn'
+              href=
+                "https:linkedin.com/company/kdu-university-college/"
+              
+           
             >
               <FaLinkedin />
-            </Link>
+            </a>
             
           </div>
         </div>
